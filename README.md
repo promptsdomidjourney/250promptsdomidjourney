@@ -1,54 +1,41 @@
-<header>
+# 250 Prompts do Midjourney – Transforme Suas Ideias em Imagens Incríveis 🎨✨
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+[Prompts do Midjourney](https://www.promptsdomidjourney.com.br/)
 
-# Prompts do Midjourney – Crie Imagens Incríveis!
+Bem-vindo ao repositório oficial da **landing page do eBook "250 Prompts do Midjourney"**!  
+Se você quer criar imagens impressionantes com **Midjourney**, este guia é para você.  
 
-_Bem-vindo ao repositório oficial da landing page  "250 Prompts do Midjourney", uma coleção abrangente de prompts projetados para inspirar e transformar suas ideias em imagens impressionantes. Este eBook é ideal para artistas digitais, designers e entusiastas da criação visual que desejam elevar seu trabalho a um novo patamar._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Acesse agora 👉 [**www.promptsdomidjourney.com.br**](https://www.promptsdomidjourney.com.br/)  
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## 📌 Sobre a Landing Page  
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+A **[250 Prompts do Midjourney](https://www.promptsdomidjourney.com.br/)** é uma página otimizada para divulgar um **eBook exclusivo** com prompts criativos para o **Midjourney**, ajudando designers, artistas e entusiastas da IA a gerar imagens profissionais.  
 
-</footer>
+🚀 **Principais benefícios:**  
+✔️ 250 prompts testados e otimizados  
+✔️ Aumento na qualidade e originalidade das imagens  
+✔️ Inspiração para diversos estilos e nichos  
+✔️ Conteúdo atualizado para as versões mais recentes do Midjourney  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+
+Este projeto foi desenvolvido utilizando:  
+
+- **HTML5**  
+- **CSS3**  
+- **GitHub Pages & Vercel** para hospedagem  
+
+---
+
+## 📂 Estrutura do Projeto  
+
+```bash
+📦 prompts-midjourney
+├── 📄 index.html    # Código principal da landing page
+├── 📄 styles.css    # Arquivo de estilos
+├── 📁 /assets      # Imagens otimizadas
+└── 📄 README.md     # Este arquivo
