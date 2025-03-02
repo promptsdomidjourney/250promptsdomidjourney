@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Prompts do Midjourney – Crie Imagens Incríveis!
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Bem-vindo ao repositório oficial da landing page  "250 Prompts do Midjourney", uma coleção abrangente de prompts projetados para inspirar e transformar suas ideias em imagens impressionantes. Este eBook é ideal para artistas digitais, designers e entusiastas da criação visual que desejam elevar seu trabalho a um novo patamar._
 
 </header>
 
